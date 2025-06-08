@@ -70,18 +70,6 @@ This solution runs **100% locally** (no OpenAI or external API), making it ideal
    - Construct a prompt containing relevant context
    - Feed to the local LLM for answer generation
 
----
-
-## 📂 Folder Structure
-
-pdfReaderLLM/
-├── models/ # Place your .gguf LLM file here
-├── screenshots/ # UI demo images for README
-├── app.py # Main Gradio + LLM code
-├── venv/ # Python virtual environment (gitignored)
-├── requirements.txt # All Python dependencies
-└── README.md # This file
-
 
 ---
 
